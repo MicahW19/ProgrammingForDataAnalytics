@@ -5,6 +5,7 @@ This is an online document to support students studying _Programming for Data An
 ## Outline
 
 - [Course Topics](#course-topics)
+- [Required Readings](#required-readings)
 
 ## Course Topics
 
@@ -36,3 +37,25 @@ _NOTE: Plans for future weeks are subject to change._
 - `(3.2)` Machine Learning Models
 - `(3.3)` Machine Learning in Python
 - `(3.4)` The Social and Ethical Issues of Programming for Data Analytics
+
+## Required Readings
+
+Readings 1, 5, 6, 8 & 9 are articles that will require a bit more attention. Readings 2, 3, 4 & 7 are videos for relaxing and entertaining learning. **It is expected that you complete all readings before your final exam.**
+
+1. Schäfer et al. (2018), “Synthesizing CRISP-DM and Quality Management: A Data Mining Approach for Production Processes”, _IEEE International Conference on Technology Management, Operations and Decisions (ICTMOD)_, doi: `10.1109/ITMC.2018.8691266`
+
+2. Thé (2016), _HTML, CSS, JavaScript Explained [in 4 minutes for beginners]_, https://www.youtube.com/watch?v=gT0Lh1eYk78
+
+3. Vox (2016), _Why All World Maps Are Wrong_, https://www.youtube.com/watch?v=kIID5FDi2JQ
+
+4. Real Life Lore (2018), _The Coastline Paradox Explained_, https://www.youtube.com/watch?v=kFjq8PX6F7I
+
+5. DeVito et al. (2020), “How we learnt to stop worrying and love web scraping”, _Nature Career Column_, 8 September, doi: `10.1038/d41586-020-02558-0`
+
+6. Krotov and Silva (2018), “Legality and Ethics of Web Scraping”, paper published at the Americas Conference on Information Systems, New Orleans (USA).
+
+7. CGP Grey (2017), _How Machines Learn_, https://www.youtube.com/watch?v=R9OHn5ZF4Uo
+
+8. Marjanovic, O., Cecez-Kecmanovic, D., & Vidgen, R. (2021). “Algorithmic pollution: Making the invisible visible“. _Journal of Information Technology_, doi: `10.1177/02683962211010356`
+
+9. Riemer, K., & Peter, S. (2021). “Algorithmic Audiencing: Why we need to rethink free speech on social media“. _Journal of Information Technology_, doi: `10.1177/02683962211013358`
