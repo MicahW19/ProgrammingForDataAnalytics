@@ -1,8 +1,12 @@
 # Programming for Data Analytics
 
-This is an online document to support students studying _Programming for Data Analytics_ at UNSW Sydney. If you are reading this and you are enrolled in this course, wonderful! If not, you may [consider taking this course with us](https://www.unsw.edu.au/business/study/specialisations/business-analytics).
+This is an online document to support students studying _Programming for Data Analytics_ at UNSW Sydney. If you are reading this and you are enrolled in this course, wonderful, you are in the right place! If not, you may [consider taking this course with us](https://www.unsw.edu.au/business/study/specialisations/business-analytics).
 
-## Topics Outline
+## Outline
+
+- [Course Topics](#course-topics)
+
+## Course Topics
 
 _NOTE: Plans for future weeks are subject to change._
 
