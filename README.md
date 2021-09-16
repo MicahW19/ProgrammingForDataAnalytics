@@ -19,9 +19,9 @@ _NOTE: Plans for future weeks are subject to change._
 - `(1.4)` Command Line Scripting
 - `(1.5)` Python Syntax Essentials
 - `(1.6)` Data Structures and File Formats
-- `(1.7)` Additional Python Concepts
-- `(1.8)` Project Management for Data Analytics
-- `(1.9)` The Business of Programming for Data Analytics
+- `(1.7)` Project Management for Data Analytics
+- `(1.8)` The Business of Programming for Data Analytics
+- `(1.9)` Additional Python Concepts
 
 ### Weeks 4-7
 
