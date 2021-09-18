@@ -14,10 +14,10 @@ seed(1)
 ## Before generating your random numbers, DISABLE BOTH seed(...) LINES ABOVE! ;)
 
 # determine length
-# Source: https://stackoverflow.com/questions/845058/how-to-get-line-count-of-a-large-file-cheaply-in-python
+# Adapted from: https://stackoverflow.com/questions/845058/how-to-get-line-count-of-a-large-file-cheaply-in-python
 num_lines = sum(1 for line in open('df_demo6.csv'))
 
 # generate some integers
-# Source: https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
+# Adapted from: https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
 value = randint(1, num_lines - 2)
 print(value)
