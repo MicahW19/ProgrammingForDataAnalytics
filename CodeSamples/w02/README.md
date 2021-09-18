@@ -2,7 +2,7 @@
 
 ## What's happening!
 
-[01-demos.py](https://github.com/blairw/ProgrammingForDataAnalytics/blob/main/CodeSamples/w02/01-demos.py)
+[01-demos.py](01-demos.py)
 
 - Get the CSV file, `owid-covid-data.csv`, from https://github.com/owid/covid-19-data/tree/master/public/data
 - Key concepts:
@@ -15,7 +15,7 @@
     - Demo 5: Maximum vaccinations for each location
     - Demo 6: Generate pairs of locations based on Demo 5
 
-[02-allocation.py](https://github.com/blairw/ProgrammingForDataAnalytics/blob/main/CodeSamples/w02/02-allocation.py)
+[02-allocation.py](02-allocation.py)
 
 - Make sure you have run `01-demos.py` first!
 - Key concepts:
