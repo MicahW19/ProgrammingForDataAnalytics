@@ -15,7 +15,7 @@
     - Demo 5: Maximum vaccinations for each location
     - Demo 6: Generate pairs of locations based on Demo 5
 
-[02-allocate.py](https://github.com/blairw/ProgrammingForDataAnalytics/blob/main/CodeSamples/w02/02-allocate.py)
+[02-allocation.py](https://github.com/blairw/ProgrammingForDataAnalytics/blob/main/CodeSamples/w02/02-allocation.py)
 
 - Make sure you have run `01-demos.py` first!
 - Key concepts:
