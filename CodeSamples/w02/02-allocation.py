@@ -10,6 +10,9 @@ seed(1)
 # # observe that at least the number changes every time lol
 # seed(datetime.now())
 
+## ATTENTION:
+## Before generating your random numbers, DISABLE BOTH seed(...) LINES ABOVE! ;)
+
 # determine length
 # Source: https://stackoverflow.com/questions/845058/how-to-get-line-count-of-a-large-file-cheaply-in-python
 num_lines = sum(1 for line in open('df_demo6.csv'))
