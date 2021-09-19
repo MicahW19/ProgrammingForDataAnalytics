@@ -1,4 +1,4 @@
-# First, try this in bash: 
+# First, try this in zsh: 
 # wc -l owid-covid-data.csv
 # You will see there are 117,000+ rows
 
