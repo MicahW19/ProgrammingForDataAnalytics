@@ -2,7 +2,7 @@
 
 ## What's happening!
 
-[cats.csv](cat.csv)
+[cats.csv](cats.csv)
 
 - Just a very simple time-series CSV file :)
 
