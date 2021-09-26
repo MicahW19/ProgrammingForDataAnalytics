@@ -1,0 +1,4 @@
+.DS_Store
+owid-covid-data.csv
+.venv/
+df_location_sets.csv
