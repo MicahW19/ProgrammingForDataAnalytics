@@ -6,6 +6,7 @@ class NavbarHelper {
 	static selectionDidChange() {
 		var selectedPlace = $("#selectPlace").val();
 		
+		// Learn more: https://en.wikipedia.org/wiki/Sentinel_value
 		if (selectedPlace != "-1") {
 			MapHelper.simulateMouseClick(selectedPlace);
 
