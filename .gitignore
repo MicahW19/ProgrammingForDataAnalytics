@@ -2,3 +2,4 @@
 owid-covid-data.csv
 .venv/
 df_location_sets.csv
+node_modules
